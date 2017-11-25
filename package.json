@@ -1,0 +1,20 @@
+{
+  "name": "youtube-desktop-app",
+  "version": "1.0.0",
+  "description": "A minimal Youtube Playlist App",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/adrianvu/youtube-playlist-player/",
+  "keywords": [
+    "Electron",
+    "youtube",
+    "always-on-top",
+    "frameless"
+  ],
+  "author": "Adrian Vu",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}
